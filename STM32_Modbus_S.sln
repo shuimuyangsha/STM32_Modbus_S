@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STM32_Modbus_S", "STM32_Modbus_S\STM32_Modbus_S.vcxproj", "{1FC40BE1-A65B-4496-988E-41FE483E8B3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC40BE1-A65B-4496-988E-41FE483E8B3F}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{1FC40BE1-A65B-4496-988E-41FE483E8B3F}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{1FC40BE1-A65B-4496-988E-41FE483E8B3F}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{1FC40BE1-A65B-4496-988E-41FE483E8B3F}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98527873-6629-4FE6-8F3F-3DE4148E13F0}
+	EndGlobalSection
+EndGlobal
